@@ -1,5 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
+## Date:28/04/2025    
+## Name:Thameez Ahamed A
+## Reg:212224220116
 
 ## AIM
 To develop a website to display details about the places around my house.
