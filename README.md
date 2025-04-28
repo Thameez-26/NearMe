@@ -38,7 +38,7 @@ map.html
 </head>
 <body>
 <h1 align="center">
-<font color="red"><b>Thanjavur</b></font>
+<font color="red"><b>Salem</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Thameez Ahamed A (212224220116)</b></font> 
