@@ -39,7 +39,7 @@ map.html
 <font color="red"><b>Thanjavur</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Hariharan A (212223110013)</b></font> 
+<font color="blue"><b>Thameez Ahamed A (212224220116)</b></font> 
 </h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
